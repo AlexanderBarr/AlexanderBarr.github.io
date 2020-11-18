@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alexanderbarr.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/alexanderbarr.github.io/static/js/main.fb608388.chunk.js",
+    "main.js.map": "/alexanderbarr.github.io/static/js/main.fb608388.chunk.js.map",
+    "runtime-main.js": "/alexanderbarr.github.io/static/js/runtime-main.cd5dc2a4.js",
+    "runtime-main.js.map": "/alexanderbarr.github.io/static/js/runtime-main.cd5dc2a4.js.map",
+    "static/js/2.cd198e35.chunk.js": "/alexanderbarr.github.io/static/js/2.cd198e35.chunk.js",
+    "static/js/2.cd198e35.chunk.js.map": "/alexanderbarr.github.io/static/js/2.cd198e35.chunk.js.map",
+    "static/js/3.15fd3a68.chunk.js": "/alexanderbarr.github.io/static/js/3.15fd3a68.chunk.js",
+    "static/js/3.15fd3a68.chunk.js.map": "/alexanderbarr.github.io/static/js/3.15fd3a68.chunk.js.map",
+    "index.html": "/alexanderbarr.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/alexanderbarr.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.cd198e35.chunk.js.LICENSE.txt": "/alexanderbarr.github.io/static/js/2.cd198e35.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/alexanderbarr.github.io/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd5dc2a4.js",
+    "static/js/2.cd198e35.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.fb608388.chunk.js"
+  ]
+}
